@@ -1,11 +1,11 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
+    apiKey: "AIzaSyDvF-S89rvcyQWz_zdnuh3FX62PB3Jb2R4",
+    authDomain: "socialsphere-eea99.firebaseapp.com",
+    databaseURL: "https://socialsphere-eea99-default-rtdb.firebaseio.com",
     projectId: "socialsphere-eea99",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID"
+    storageBucket: "socialsphere-eea99.firebasestorage.app",
+    messagingSenderId: "65384461572"
 };
 
 // Initialize Firebase
